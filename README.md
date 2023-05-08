@@ -1,6 +1,7 @@
 # taliban-twitter-network
-Social network analysis for biggest taliban accounts on twitter
-This is the first part of a project to analyze the social network of Taliban members' accounts on Twitter. 
+## Social network analysis for biggest taliban accounts on twitter
+
+This is the first part of a project to analyze the social network of Taliban members' accounts on Twitter and their tweets. 
 
 In this part, the data is being scraped from Twitter using the Twitter API V2 and Tweepy library. 
 
